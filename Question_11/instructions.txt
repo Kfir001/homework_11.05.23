@@ -1,0 +1,1 @@
+ כתבו קוד שבודק את המשתנה foo .אם הוא שווה למחרוזת הטקסט " correct am I ," ."He is NOT correct" תדפיס הקונסולה, לא ואם" He is correct " 
