@@ -4,3 +4,4 @@ let num = prompt("היי,מה המצב ?,בואו נבדוק אם המספר ז�
         } else { //? הצבת תנאים
             document.querySelector("#result").innerHTML = num + " מספר לא זוגי";
         }
+        
