@@ -2,5 +2,6 @@
   "superBG.disable": false,
   "superBG.images": ["/C:/Users/IMOE001/Pictures/Saved Pictures/witcher.jpg"],
   "superBG.activeImage": 0,
-  "superBG.url": ""
+  "superBG.url": "",
+  "liveServer.settings.port": 5501
 }
